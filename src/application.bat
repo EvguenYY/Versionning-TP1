@@ -2,7 +2,7 @@
 ###test_app.bat-2016-BOUDIER###
 echo "Copyright company - 2016"
 echo "Build : 10:00"
-echo "version 1.2";
+echo "version 1.2.1";
 
 ###application.bat-2016-BOUDIER###
 version="2"
